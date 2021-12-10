@@ -3,7 +3,7 @@ date: '2019-10-01'
 title: 'Campus Lead'
 company: 'TinkerHub'
 location: 'CUCEK'
-range: '2019 OCT -Present'
+range: '2019 OCT - 2020 AUG'
 url: 'https://tinkerhub.org/'
 ---
 
