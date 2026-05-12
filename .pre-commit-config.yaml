@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/shelkesays/safelint
+    rev: v1.13.0rc2
+    hooks:
+      - id: safelint
+        args: [--fail-on=error]
